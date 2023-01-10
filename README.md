@@ -1,6 +1,6 @@
 ### 반갑습니다. 👋 
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=100&section=header&text=Hello<br>I'm%20beginner&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Hello%20I'm%20beginner&fontSize=40)
 
   💌💌 <br>
   <a href="https://ampmbuffett.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
