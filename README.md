@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
    
    
-   😄😄 <br>
+  <h3>:heavy_check_mark: <a href="url" > :100: My skill :small_red_triangle::arrow_upper_right:</h3></a><br>
    <a><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>
    <a><img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/></a>
    <a><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=Gmail&logoColor=white"/></a>
