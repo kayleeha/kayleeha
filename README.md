@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=200&section=header&text=Hello%20I'm%20beginner&fontSize=40)
 
-  💌💌 <br>
+  <h3>:pencil2: <a href="url" > :email: Blog & Email :pushpin::computer:</h3></a><br>
   <a href="https://ampmbuffett.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
    
